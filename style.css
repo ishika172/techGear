@@ -1,0 +1,160 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+  height: 20px;
+  transition: 0.6s;
+  padding: 0;
+  color:darkorange;
+}
+
+.navbar-style {
+     box-shadow: 0 10px 15px black;
+     text-transform: uppercase;
+	 transition:0.5s;
+	 background-color:black;
+}
+.navbar-toggle {
+     color: darkorange;
+}
+
+.cont {
+     margin: 80px 0;
+	 color: black;
+	 text-align: center;
+}	
+
+.hi {
+     font-size: 40px;
+	 margin: 10px;
+	 color: darkorange;
+
+}	
+.firstpara {
+     font-size: 20px;
+
+}	
+
+.logo {
+	height: 48px;
+	padding: 2px 0;
+	transition: 0.6s;
+	
+}	
+
+.icon-bar {
+	background: darkorange;
+}
+
+.big-text {
+    font-size: 20px;
+	margin: 20px 0;
+	color: blue;
+}
+.dropdown-menu {
+	color:darkorange;
+}
+.about {
+	font-size: 40px;
+	margin: 20px 0;
+	margin-left: 30px;
+	color: darkslateblue;
+}
+
+a.btn {
+
+  margin: 30px 10px;
+  width: 150px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+a.btn-first {
+	background-color: darkorange;
+	color: #fff;
+}
+
+a.btn-second {
+	background-color: darkorange;
+	border: 1px solid darkorange;
+	color: #fff;
+}
+
+a.btn:hover {
+   background: darkorange;
+   border: none;
+   color: white;
+   box-shadow: 5px 5px 10px #999;
+   transition: 0.3s;
+}	
+
+.banner-info{	
+    margin: 30px 0;
+	
+}	
+.banner-image {
+     width: 550px;
+      height: 650px;
+     margin-top: 100px;
+}
+
+.img-responsive {
+      margin:10px 0;
+	  margin-left:40px;
+	  width: 550px;
+	  height: 650px;	  
+}
+
+.web-info {
+     margin: 40px 0;
+	 font-size: 18px;
+}
+.webimg {
+	  width: 500px;
+	 height: 600px;
+}
+.web-image {
+     margin: 60px 0;
+	 width: 570px;
+	 height: 420px;
+	 margin-top: 60px;
+	 margin-left: 30px;
+}
+.card: {
+  padding: 10px;
+  color: darkred;
+  border : 20px solid darkorange;
+}
+.card:hover{
+box-shadow: 30px 30px 30px black;
+border-radius:40px;
+border : 20px solid darkorange;
+transition: 0.3s;
+}
+.card-body {
+	color: white;
+	margin:10px;
+}
+a.btn-fourth {
+	border: 2px solid darkorange;
+	color: #fff;
+	margin-left:100px;
+	margin-top:230px;
+}
+a.btn-fifth {
+	border: 2px solid darkorange;
+	color: black;
+	background-color:darkorange;
+}
+a.btn-sixth {
+	background-color: darkorange;
+	border: 1px solid darkorange;
+	color: #fff;
+}
+.footer {
+	background-color:steelblue;
+	margin-top:30px;
+}
